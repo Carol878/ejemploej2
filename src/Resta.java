@@ -6,6 +6,7 @@ public class Resta
     // Creo constructor vacio, para poder llamar a la función.
     public Resta (){
     }
+
     // Creo función resta de 2 reales
     double restaReales (double realA, double realB)
     {
