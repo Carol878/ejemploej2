@@ -25,6 +25,7 @@ public class Resta
         double resultado = realA - realB - realC;
         return resultado;
     }
+
     // Resta con valor acumulados
     double restaAcumulado (double acumulado)
     {
