@@ -11,7 +11,7 @@ public class Main {
             opciones = sc.next();
             switch (opciones) {
                 case "1":
-                    //TODO: Suma;
+                    //TODO Suma;
                     break;
                 case "2":
                     System.out.println("¿Qué tipo de operación quieres realizar?");
